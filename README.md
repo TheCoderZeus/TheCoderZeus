@@ -1,30 +1,37 @@
-# 👋 Hi, I'm @TheCoderZeus
+# 👋 Olá, eu sou TheCoderZeus!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCoderZeus&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Apaixonado;Sempre+Aprendendo;Criando+Soluções+Inovadoras&center=true&width=380&height=45">
 </div>
 
-## 🚀 About Me
-- 💻 Software Developer passionate about creating innovative solutions
-- 🌱 Always learning and exploring new technologies
-- 👯 Open to collaborating on interesting projects
+## 🚀 Sobre Mim
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+🎯 Desenvolvedor focado em criar soluções inovadoras
+🌱 Sempre em busca de novos conhecimentos
+💡 Apaixonado por tecnologia e código limpo
 
-## 🔗 Connect With Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/TheCoderZeus)
+## 🛠️ Tecnologias & Ferramentas
 
-## 📊 GitHub Stats
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+## 📊 Estatísticas GitHub
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCoderZeus&theme=dark" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCoderZeus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoderZeus&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## 🤝 Vamos Conectar!
+
+<div> 
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/TheCoderZeus" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheCoderZeus&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+⭐️ De [TheCoderZeus](https://github.com/TheCoderZeus)
