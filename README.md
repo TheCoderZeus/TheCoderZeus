@@ -6,9 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-🎯 Desenvolvedor focado em criar soluções inovadoras
-🌱 Sempre em busca de novos conhecimentos
-💡 Apaixonado por tecnologia e código limpo
+🎯 Desenvolvedor focado em criar soluções inovadoras e próprias.
 
 ## 🛠️ Tecnologias & Ferramentas
 
