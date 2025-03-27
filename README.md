@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou TheCoderZeus!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Apaixonado;Sempre+Aprendendo;Criando+Soluções+Inovadoras&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Focado;Sempre+Aprendendo;Criando+Soluções+Inovadoras&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
