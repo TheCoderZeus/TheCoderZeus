@@ -3,7 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Innovation+Enthusiast&center=true&width=400&height=50)](https://git.io/typing-svg)
   
-  <p>🚀 Transformando ideias em soluções elegantes</p>
+  <p>🚀 Colocando ideias da cabeça em ação!</p>
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -12,7 +12,6 @@
 - 🌱 Sempre aprendendo e evoluindo no desenvolvimento
 - 💡 Apaixonado por criar aplicações eficientes e escaláveis
 - 🎯 Orientado a resultados e qualidade de código
-- 🌍 Baseado em [Seu Local] <!-- Atualize aqui se desejar -->
 
 <details>
 <summary>🎯 Foco Profissional</summary>
