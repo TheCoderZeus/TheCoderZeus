@@ -81,7 +81,7 @@
 ## Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TheCoderZeus&theme=dracula&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheCoderZeus&theme=dracula" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheCoderZeus&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
