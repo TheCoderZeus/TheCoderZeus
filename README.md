@@ -55,8 +55,8 @@
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/TheCoderZeus/SyntPanel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderZeus&repo=SyntPanel&theme=dracula" />
+  <a href="[https://github.com/TheCoderZeus/SyntPanel](https://github.com/TheCoderZeus/BloquearItens)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCoderZeus&repo=BloquearItens&theme=dracula" />
   </a>
 </div>
 
