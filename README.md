@@ -1,16 +1,15 @@
 <!--
- ███████╗██╗  ██╗██████╗ ██████╗ ███████╗██████╗     ███████╗███████╗██╗   ██╗███████╗███████╗
- ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗    ██╔════╝██╔════╝██║   ██║██╔════╝██╔════╝
- ███████╗███████║██████╔╝██████╔╝█████╗  ██████╔╝    ███████╗█████╗  ██║   ██║█████╗  ███████╗
- ╚════██║██╔══██║██╔══██╗██╔══██╗██╔══╝  ██╔══██╗    ╚════██║██╔══╝  ██║   ██║██╔══╝  ╚════██║
- ███████║██║  ██║██║  ██║██║  ██║███████╗██║  ██║    ███████║███████╗╚██████╔╝███████╗███████║
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
-                                                                                
+ ██████╗██╗  ██╗███████╗██╗     ███████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██║  ██║██╔════╝██║     ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+██║     ███████║█████╗  ██║     █████╗  ██║   ██║██████╔╝███████╗
+██║     ██╔══██║██╔══╝  ██║     ██╔══╝  ██║   ██║██╔══██╗╚════██║
+╚██████╗██║  ██║███████╗███████╗███████╗╚██████╔╝██║  ██║███████║
+ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheCoderZeus/TheCoderZeus/main/assets/hacker-banner.gif" width="100%" alt="Hacker Banner"/>
+<img src="https://raw.githubusercontent.com/TheCoderZeus/TheCoderZeus/main/assets/hacker-banner.gif" width="100%" alt="Hacker Theme Banner"/>
 
 </div>
 
@@ -18,59 +17,41 @@
 
 <div align="center">
 
-<h2>👋 Fala, eu sou <span style="color:#36BCF7;">TheCoderZeus</span>!</h2>
-<blockquote>
-  <b>Desenvolvedor, explorador de sistemas, e entusiasta da quebra de limites técnicos.<br>
-  Security, backend, automação, e aquela pitada de criatividade hacker.</b>
-</blockquote>
-
+<h2>⚡️ TheCoderZeus</h2>
+<pre>
+<span style="color:#36BCF7;"># Desenvolvimento de alto nível, arquitetura robusta e soluções que funcionam na vida real.</span>
+</pre>
 </div>
 
 ---
 
-## ⛓️ Terminal Info
+## 🟢 Terminal Profile
 
 ```
-user@thecoderzeus:~$ whoami
-> Desenvolvedor fullstack com paixão por engenharia reversa, automação e arquitetura robusta.
-> Foco em soluções que realmente resolvem o problema, sem enrolação.
-> Curioso por natureza, sempre testando limites e aprendendo algo novo.
+user@thecoderzeus:~$ echo "Sobre Mim"
+> Software Developer na essência, apaixonado por backend, arquitetura e automação.
+> Sempre buscando o próximo nível em tecnologia, performance e eficiência.
+> Objetivo? Transformar código em soluções que realmente entregam resultado.
 ```
 
 ## 💻 Stack & Ferramentas
 
 ```
 user@thecoderzeus:~$ cat stack.txt
-+ Backend: Java | Kotlin | Node.js
-+ Mobile: Kotlin | Java (Android)
-+ Infra: Docker | Linux | Git | CI/CD
-+ Security: Criptografia | OWASP | Ethical Hacking Basics
-+ IDE: IntelliJ IDEA | VS Code | tmux | zsh
+- Java | Kotlin | Node.js | JavaScript
+- Android Dev | Docker | Linux | Git | CI/CD
+- IntelliJ IDEA | VS Code | tmux | zsh
 ```
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🚀 Projetos de Destaque
 
-- Arquitetura de Software
-- Backend de Alta Performance
-- DevSecOps & Segurança
-- Sistemas Distribuídos
-- Automação (bots, scripts, scraping)
-- Refatoração, Clean Code, Testes
-
----
-
-## 🔥 Projetos em Destaque
-
-| Projeto           | Descrição Rápida                    | Link                                           |
+| Projeto           | Descrição                           | Link                                           |
 |-------------------|-------------------------------------|------------------------------------------------|
-| BloquearItens     | Controle na proteção do servidor    | [Ver projeto](https://github.com/TheCoderZeus/BloquearItens) |
-| (em breve)        | Novos projetos em desenvolvimento   | Fique de olho!                                 |
+| BloquearItens     | Controle de acesso inteligente      | [Ver projeto](https://github.com/TheCoderZeus/BloquearItens) |
 
 ---
-
-## 📟 Status
 
 <div align="center">
 
@@ -82,11 +63,11 @@ user@thecoderzeus:~$ cat stack.txt
 
 ---
 
-## 🕸️ Contato
+## 🌐 Contato
 
 ```
-user@thecoderzeus:~$ mail -s "Hey!" seu-email@exemplo.com
-user@thecoderzeus:~$ discord: TheCoderZeus#XXXX
+user@thecoderzeus:~$ mail -s "Contato" thecoderzeus.official@gmail.com
+user@thecoderzeus:~$ discord: odarkspvp
 user@thecoderzeus:~$ github: @TheCoderZeus
 ```
 
@@ -101,5 +82,5 @@ user@thecoderzeus:~$ github: @TheCoderZeus
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheCoderZeus&color=blueviolet&style=flat-square" alt="Profile Views" />
   <br>
-  <sub><b>© 2025 TheCoderZeus</b> • Não é IA. É código, café e curiosidade.</sub>
+  <sub><b>© 2025 TheCoderZeus</b> • Café e programação? Ai que eu gosto!</sub>
 </div>
