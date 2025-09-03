@@ -1,16 +1,18 @@
-<!-- Banner estilo cartoon -->
+<!-- Banner estilo lousa/cartoon -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheCoderZeus/TheCoderZeus/main/assets/hacker-banner.gif" width="100%" alt="Cartoon Hacker Banner"/>
+  <img src="https://raw.githubusercontent.com/TheCoderZeus/TheCoderZeus/main/assets/blackboard-banner.gif" width="100%" alt="Chalkboard Cartoon Banner"/>
 </div>
 
 ---
 
 <div align="center">
 
-# 🎮 TheCoderZeus  
+# ✏️ TheCoderZeus  
 
-👋 Fala aí! Sou um cara que curte **backend, automação e arquitetura**.  
-Mano só tenho uma missão e essa missão é criar projetos incriveis.  
+> "Código escrito como giz no quadro: simples, direto e com estilo."  
+
+Focado em **backend**, **automação** e **arquitetura robusta**.  
+Gosto de transformar ideias em soluções que funcionam de verdade.  
 
 </div>
 
