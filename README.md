@@ -7,21 +7,58 @@
 
 <div align="center">
 
-# ✏️ TheCoderZeus  
+# ✏️ TheCoderZeus
 
-> "Código escrito como giz no quadro: simples, direto e com estilo."  
+> "Código escrito como giz no quadro: simples, direto e com estilo."
 
-Focado em **backend**, **automação** e **arquitetura robusta**.  
-Gosto de transformar ideias em soluções que funcionam de verdade.  
+💡 Focado em **backend**, **automação** e **arquitetura robusta**.  
+Transformando ideias em soluções que **funcionam de verdade**.
 
 </div>
 
 ---
 
-## 🖥️ Minhas armas no terminal
+## 🖥️ Arsenal no Terminal
 
 ```bash
 $ cat stack.txt
-- Java / Kotlin / Node.js / JavaScript / HTML / PHP
-- Linux, Git, CI/CD
-- IntelliJ, VS Code,
+
+• Java
+• Kotlin
+• JavaScript
+• HTML
+
+• Linux
+• Git
+
+• IntelliJ IDEA
+• VS Code
+```
+
+---
+
+## ⚡ Filosofia de Código
+
+```bash
+while(true) {
+    aprender();
+    construir();
+    melhorar();
+}
+```
+
+---
+
+## 🧠 Mentalidade
+
+- Código limpo > código complicado  
+- Automação > trabalho repetitivo  
+- Sistemas simples > arquiteturas desnecessariamente complexas  
+
+---
+
+<div align="center">
+
+### ☕ Code • Build • Repeat
+
+</div>
