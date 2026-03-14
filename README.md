@@ -14,21 +14,3 @@
 Trabalho mais com **backend**, **automação** e construção de sistemas que realmente resolvem problemas.
 
 </div>
-
----
-
-## 🖥️ Stack
-
-```bash
-$ cat stack.txt
-
-Java
-Kotlin
-JavaScript
-HTML
-
-Linux
-Git
-
-IntelliJ IDEA
-VS Code
