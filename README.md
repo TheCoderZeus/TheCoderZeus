@@ -9,56 +9,26 @@
 
 # ✏️ TheCoderZeus
 
-> "Código escrito como giz no quadro: simples, direto e com estilo."
+> Código no estilo giz no quadro: simples, direto e funcional.
 
-💡 Focado em **backend**, **automação** e **arquitetura robusta**.  
-Transformando ideias em soluções que **funcionam de verdade**.
+Trabalho mais com **backend**, **automação** e construção de sistemas que realmente resolvem problemas.
 
 </div>
 
 ---
 
-## 🖥️ Arsenal no Terminal
+## 🖥️ Stack
 
 ```bash
 $ cat stack.txt
 
-• Java
-• Kotlin
-• JavaScript
-• HTML
+Java
+Kotlin
+JavaScript
+HTML
 
-• Linux
-• Git
+Linux
+Git
 
-• IntelliJ IDEA
-• VS Code
-```
-
----
-
-## ⚡ Filosofia de Código
-
-```bash
-while(true) {
-    aprender();
-    construir();
-    melhorar();
-}
-```
-
----
-
-## 🧠 Mentalidade
-
-- Código limpo > código complicado  
-- Automação > trabalho repetitivo  
-- Sistemas simples > arquiteturas desnecessariamente complexas  
-
----
-
-<div align="center">
-
-### ☕ Code • Build • Repeat
-
-</div>
+IntelliJ IDEA
+VS Code
